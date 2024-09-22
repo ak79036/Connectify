@@ -68,8 +68,10 @@ It is a modern real-time chatting application built with a powerful tech stack, 
 
 <h2 align="center">System Design Diagrams</h2>
 
-- [System Design Link 1](https://drive.google.com/file/d/1tlwmPvJpgRAsUw6Ktrl_-6HdVAaieNAn/view?usp=sharing)
-- [System Design Link 2](https://drive.google.com/file/d/1qgWYFVl-XdfSwdNqwssNl7V6xkKi-IKG/view?usp=sharing)
+<p align="center">
+  <img alt="System Design 1" src="https://drive.google.com/uc?export=view&id=1tlwmPvJpgRAsUw6Ktrl_-6HdVAaieNAn" height="250px">
+  <img alt="System Design 2" src="https://drive.google.com/uc?export=view&id=1qgWYFVl-XdfSwdNqwssNl7V6xkKi-IKG" height="250px">
+</p>
 
 For proper documentation, please refer to the presentation [here](https://drive.google.com/file/d/1ucovUTp1L8dsihDBzjQsdaEw1C1QizcQ/view?usp=sharing).
 
