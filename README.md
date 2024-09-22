@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Chat-Application" src="https://drive.google.com/file/d/1zErFJRQjIuCKZsra3h_G6IzzR2seFzwt/view?usp=sharing" height="250px">
+  <img alt="Chat-Application" src="https://drive.google.com/uc?export=view&id=1zErFJRQjIuCKZsra3h_G6IzzR2seFzwt" height="250px">
 </p>
 
 # Chat-Application
