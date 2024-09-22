@@ -1,75 +1,82 @@
 <p align="center">
   <img alt="Chat-Application" src="https://drive.google.com/file/d/1zErFJRQjIuCKZsra3h_G6IzzR2seFzwt/view?usp=sharing" height="250px">
-</p>  
+</p>
 
 # Chat-Application
-### An application made with ❤️ by
-* [Aditya Kumar](https://github.com/ak79036)
-* Adm No.      - 22JE0054
-* Institute    - IIT(ISM)DHANBAD
-* Organization - I'mbesideyou
 
+### An application made with ❤️ by:
+- **[Aditya Kumar](https://github.com/ak79036)**
+- **Adm No.**: 22JE0054  
+- **Institute**: IIT (ISM) Dhanbad  
+- **Organization**: I'mbesideyou
 
+<h2 align="center">Deployed Link of the Website</h2>
 
-<h2 align="center">Below is the Deployed Link of the Website<h2>
-* [Link](https://chat-application-aditiya.vercel.app)
+- **[Link](https://chat-application-aditiya.vercel.app)**
+
+---
 
 ## Table of Contents
-
-- **[About Chat-Application](#about chat-application)**
-- **[Application Features](#Application Features)**
-- **[Important Points](#Important Points)
-- **[Building from Source & Deploy to Hosting Platform](#building from source & deploy to hosting platform)**
+- **[About Chat-Application](#about-chat-application)**
+- **[Application Features](#application-features)**
+- **[Important Points](#important-points)**
+- **[Building from Source & Deploying](#building-from-source--deploying)**
 - **[End Credits](#end-credits)**
 
-
+---
 
 ## About Chat-Application
 
-* This Chat Application is a **I'mbesideyou Software Development Project**.[Project Proposal](https://drive.google.com/file/d/1ucovUTp1L8dsihDBzjQsdaEw1C1QizcQ/view?usp=sharing).
-This is a modern real-time chatting application built with a powerful tech stack that includes **Next.js**, **Convex**, **Clerk**, **ShadCN**, and **LiveKit**. The platform provides seamless real-time chat, audio/video calls, and friend management functionality.
+This Chat Application is an **I'mbesideyou Software Development Project**. Check out the [Project Proposal](https://drive.google.com/file/d/1ucovUTp1L8dsihDBzjQsdaEw1C1QizcQ/view?usp=sharing).
 
-* Next.js Framework- The application is built with Next.js, providing a robust and scalable frontend with server-side rendering for optimal performance and seamless navigation between the Conversations and Friends sections.
-* Real-Time Chatting with Convex- Convex serves as the backbone for our real-time chat functionality. Whether it's a single or group chat, Convex ensures that messages are delivered instantly, with database synchronization that keeps conversations up-to-date for all users.
-* Audio & Video Calls via LiveKit- To enrich the chat experience, LiveKit handles audio and video calls directly from the Conversations tab. It provides high-quality, low-latency connections, enabling users to switch seamlessly between text and voice/video communication.It will open when both users tap the video/audio button. 
-Authentication with Clerk- Clerk manages user authentication, making sign-ups and logins secure and simple. It integrates seamlessly with the app to handle user sessions, ensuring access to personalized chats and friend lists.
-Friends Management-The Friends section allows users to easily add or remove friends, with updates managed by Convex to keep the user’s contact list synced and real-time across devices.
+It is a modern real-time chatting application built with a powerful tech stack, including **Next.js**, **Convex**, **Clerk**, **ShadCN**, and **LiveKit**. The platform provides seamless real-time chat, audio/video calls, and friend management functionality.
 
-## Application Features:
+- **Next.js** - Provides a robust and scalable frontend with server-side rendering for optimal performance and seamless navigation.
+- **Real-Time Chatting with Convex** - Ensures instant message delivery with database synchronization for all users.
+- **Audio & Video Calls via LiveKit** - Enables high-quality, low-latency connections for voice and video calls.
+- **Authentication with Clerk** - Manages secure user authentication and session handling.
+- **Friends Management** - Real-time friends management, allowing users to add/remove friends and sync their contact list.
 
-### 1. Built with Next.js
-- Fast, responsive, and scalable frontend using **Next.js** with server-side rendering (SSR) for optimized performance and seamless navigation between different sections of the app.
+---
 
-### 2. Real-Time Messaging
-- Real-time single and group chat capabilities powered by **Convex**, ensuring instant message delivery and synchronization across all users.
+## Application Features
 
-### 3. Audio and Video Calls
-- Integrated **audio and video call** features, provided by **LiveKit**, allowing users to initiate high-quality, low-latency calls directly from the chat interface.
+1. **Built with Next.js**  
+   - Fast, responsive, and scalable frontend with server-side rendering (SSR) for optimized performance.
 
-### 4. Secure User Authentication
-- **Clerk** manages user authentication and session handling, ensuring secure login and sign-up processes for personalized experiences.
+2. **Real-Time Messaging**  
+   - Real-time single and group chat capabilities powered by **Convex** for instant message delivery and synchronization.
 
-### 5. Friends Management
-- Users can **add** and **remove friends** easily in the **Friends** section, with real-time updates to friend lists stored and managed by **Convex**.
+3. **Audio and Video Calls**  
+   - Integrated **audio and video call** features provided by **LiveKit**, enabling high-quality calls from the chat interface.
 
-### 6. Beautiful and Accessible UI
-- A stylish and responsive user interface built using **ShadCN** components, ensuring a smooth, accessible, and visually appealing experience for users.
-### 7. API-Driven Architecture
-- **Robust API connections** ensure seamless integration between the chat, audio/video calls, and friends management functionalities. This architecture allows for real-time interactions and data synchronization across all services, including **Convex** for messaging, **LiveKit** for calls, and **Clerk** for authentication.
+4. **Secure User Authentication**  
+   - **Clerk** handles secure login and sign-up processes, ensuring a personalized user experience.
 
-## Important Points:
+5. **Friends Management**  
+   - Users can **add** and **remove friends** in real-time, with updates managed by **Convex**.
 
- <h2 align="center">These are the System Design Diagrams<h2>
-* [Link](https://drive.google.com/file/d/1tlwmPvJpgRAsUw6Ktrl_-6HdVAaieNAn/view?usp=sharing)
+6. **Beautiful and Accessible UI**  
+   - A stylish, responsive UI built using **ShadCN** components for a smooth user experience.
 
- <h2 align="center"><h2>
-* [Link](https://drive.google.com/file/d/1qgWYFVl-XdfSwdNqwssNl7V6xkKi-IKG/view?usp=sharing)
+7. **API-Driven Architecture**  
+   - Robust API connections for seamless interaction between the chat, calls, and friends management functionalities.
 
-## for Proper Documentation please take a look at presentation [here](https://drive.google.com/file/d/1ucovUTp1L8dsihDBzjQsdaEw1C1QizcQ/view?usp=sharing).
+---
 
-## To Access the video/Audio Call Feature both User should should tap on Video/Audio Button so that they can able to connect 
+## Important Points
 
+<h2 align="center">System Design Diagrams</h2>
 
+- [System Design Link 1](https://drive.google.com/file/d/1tlwmPvJpgRAsUw6Ktrl_-6HdVAaieNAn/view?usp=sharing)
+- [System Design Link 2](https://drive.google.com/file/d/1qgWYFVl-XdfSwdNqwssNl7V6xkKi-IKG/view?usp=sharing)
+
+For proper documentation, please refer to the presentation [here](https://drive.google.com/file/d/1ucovUTp1L8dsihDBzjQsdaEw1C1QizcQ/view?usp=sharing).
+
+**Note:**  
+To access the audio/video call feature, both users should tap the Video/Audio button to connect.
+
+---
 ## Building from Source & Deploy to Hosting Platform
 
 #### Prerequisites:
