@@ -7,6 +7,7 @@
 ### An application made with ❤️ by:
 - **[Aditya Kumar](https://github.com/ak79036)**
 - **Adm No.**: 22JE0054  
+-**Department**: Computer Science & Engineering
 - **Institute**: IIT (ISM) Dhanbad  
 - **Organization**: I'mbesideyou
 
