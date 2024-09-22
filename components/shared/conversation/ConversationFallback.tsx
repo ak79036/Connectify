@@ -1,9 +1,9 @@
 import { Card } from '@/components/ui/card'
 import React from 'react'
 
-type Props = {}
 
-const ConversationFallback = (props: Props) => {
+
+const ConversationFallback = () => {
   return (
   <Card className="hidden lg:flex
   h-full w-full p-2 items-center

@@ -25,8 +25,8 @@ const chatMessageSchema =z.object({
 })
 
 const ChatInput = () => {
-    const textareaRef =useRef<HTMLTextAreaElement| null>
-    (null)
+    // const textareaRef =useRef<HTMLTextAreaElement| null>
+    // (null)
 
     // gives the conversation id from the url if exists
     const {conversationId}=useConversation();

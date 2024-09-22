@@ -19,7 +19,7 @@ const CallRoom = ({video,audio,handleDisconnect}: Props) => {
     const {user}=useUser()
     const [token,setToken] =useState("")
     const {conversationId}=useConversation();
-    const {mutate:createMessage,pending} =useMutationState(api.message.create);
+    const {mutate:createMessage} =useMutationState(api.message.create);
 
     useEffect(()=> {
         if(!user?.fullName) return;
