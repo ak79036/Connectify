@@ -1,3 +1,20 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "overrides": [
+        {
+            "files": ["*.tsx", "*.jsx"],
+            "rules": {
+                "@typescript-eslint/ban-types": [
+                    "error",
+                    {
+                        "extendDefaults": true,
+                        "types": {
+                            "{}": false
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+
 }
