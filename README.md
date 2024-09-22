@@ -11,11 +11,11 @@
 - **Institute**: IIT (ISM) Dhanbad  
 - **Organization**: I'mbesideyou
 
-<h2 align="center">Deployed Link of the Website</h2>
+<h2 align="center">Important Links</h2>
 
-- **[Link](https://chat-application-aditiya.vercel.app)**
+- **[Website Link](https://chat-application-aditiya.vercel.app)**
 - **[Demo Video Link](https://drive.google.com/uc?export=view&id=1WAVjdyfqYYcyBKgpV5aiFXWscXz3d5Hg)**
-
+- **[Presentation Link](https://drive.google.com/file/d/1ucovUTp1L8dsihDBzjQsdaEw1C1QizcQ/view?usp=sharing)**
 ---
 
 ## Table of Contents
