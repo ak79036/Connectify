@@ -4,10 +4,10 @@ import { Card } from '@/components/ui/card';
 import { api } from '@/convex/_generated/api';
 import { Id } from '@/convex/_generated/dataModel';
 import { useMutationState } from '@/hooks/useMutationState';
-import { error } from 'console';
+// import { error } from 'console';
 import { ConvexError } from 'convex/values';
 // import { User } from '@clerk/nextjs/server';
-import { User2, User, Check, X } from 'lucide-react';
+import {  User, Check, X } from 'lucide-react';
 
 import React from 'react'
 import { toast } from 'sonner';

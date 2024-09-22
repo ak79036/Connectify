@@ -1,5 +1,5 @@
 import { ConvexError, v } from "convex/values";
-import { QueryCtx,mutation } from "./_generated/server";
+import {mutation } from "./_generated/server";
 import { getUserByClerkId } from "./_utils";
 
 export const create= mutation({

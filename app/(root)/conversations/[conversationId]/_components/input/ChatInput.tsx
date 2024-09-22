@@ -5,16 +5,17 @@ import { api } from '@/convex/_generated/api';
 import { useConversation } from '@/hooks/useConversation';
 import { useMutationState } from '@/hooks/useMutationState';
 import { zodResolver } from '@hookform/resolvers/zod';
-import { Content } from '@radix-ui/react-tooltip';
-import { error } from 'console';
+// import { Content } from '@radix-ui/react-tooltip';
+// import { error } from 'console';
 import { ConvexError } from 'convex/values';
 import React, { useRef } from 'react'
 import { useForm } from 'react-hook-form';
 import { toast } from 'sonner';
-import { TypeOf, z } from 'zod';
+// import { TypeOf, z } from 'zod';
 import TextareaAutosize from "react-textarea-autosize";
 import { Button } from '@/components/ui/button';
 import { SendHorizonal } from 'lucide-react';
+import { z } from 'zod';
 
 const chatMessageSchema =z.object({
     content: z.string().min(1,{
