@@ -14,7 +14,7 @@
 <h2 align="center">Important Links</h2>
 
 - **[Website Link](https://chat-application-aditiya.vercel.app)**
-- **[Demo Video Link](https://drive.google.com/uc?export=view&id=1WAVjdyfqYYcyBKgpV5aiFXWscXz3d5Hg)**
+- **[Demo Video Link](https://drive.google.com/file/d/1WAVjdyfqYYcyBKgpV5aiFXWscXz3d5Hg/view?usp=sharing)**
 - **[Presentation Link](https://drive.google.com/file/d/1ucovUTp1L8dsihDBzjQsdaEw1C1QizcQ/view?usp=sharing)**
 ---
 
